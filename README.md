@@ -6,7 +6,7 @@
 
 <br />
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=salomonhotegni&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nightowl)(https://github.com/anuraghazra/github-readme-stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salomonhotegni&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=salomonhotegni&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salomonhotegni&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 #### Top Repositories
