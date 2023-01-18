@@ -1,9 +1,11 @@
+## $$\text{Hello, I'm Salomon. I'm passionate about data science!}$$
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=salomonhotegni&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salomonhotegni)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## $$\text{Hello, I'm Salomon. I'm passionate about data science!}$$
+
 
 <br />
 
