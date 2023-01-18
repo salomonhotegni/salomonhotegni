@@ -1,5 +1,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=salomonhotegni&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=salomonhotegni&layout=compact&theme=buefy&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Salomon. I'm passionate about data science!" src="./assets/gh-readme-header.png" /></a></p>
