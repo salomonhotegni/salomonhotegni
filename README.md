@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 
 ## My Github Stats: (From 2023)
 
+[![Sedjro Salomon HOTEGNI's GitHub stats](https://github-readme-stats.vercel.app/api?username=salomonhotegni&count_private=true&hide=contribs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<!--
 <table class="center" style="width:100%;">
   <tr>
     <td align="center">
@@ -42,6 +44,7 @@ Here are some ideas to get you started:
 </td>
   </tr>
 </table>
+-->
 
 
 <!--
