@@ -6,7 +6,8 @@ I am passionate about Machine Learning, Multi-criteria Machine Learning, Deep Le
 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/s%C3%A8djro-salomon-hotegni-82a03a202/), [Gmail](mailto:salomon.hotegni@aims.ac.rw)
 - ⚡ My Portfolio: [Bio](https://shsalomon.bio.link/) 
-<img src="https://komarev.com/ghpvc/?username=salomonhotegni&style=flat-square&color=blue" alt=""/>
+
+From 2023: <img src="https://komarev.com/ghpvc/?username=salomonhotegni&style=flat-square&color=blue" alt=""/>
 
 
 ## 👨🏻💻 About Me
