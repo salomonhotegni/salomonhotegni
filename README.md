@@ -4,7 +4,7 @@
 
 I am passionate about Machine Learning, Multi-criteria Machine Learning, Deep Learning, Data Science, Artificial Intelligence, Multi-objective optimization and Mathematical Sciences.
 
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/s%C3%A8djro-salomon-hotegni-82a03a202/), [Gmail](salomon.hotegni@aims.ac.rw)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/s%C3%A8djro-salomon-hotegni-82a03a202/), [Gmail](mailto:salomon.hotegni@aims.ac.rw)
 <img src="https://komarev.com/ghpvc/?username=salomonhotegni&style=flat-square&color=blue" alt=""/>
 
 
