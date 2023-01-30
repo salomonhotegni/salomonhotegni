@@ -1,6 +1,6 @@
 ## $\text{Hello, I'm Salomon!}$👋
 
-<img width="25%" align="right" alt="Github" src="https://github.com/salomonhotegni/salomonhotegni/blob/43609c18cd9fa8d1d1bb00268eb1d1ada626121e/tools/images/giphy.gif" />
+<img width="50%" align="right" alt="Github" src="https://github.com/salomonhotegni/salomonhotegni/blob/43609c18cd9fa8d1d1bb00268eb1d1ada626121e/tools/images/giphy.gif" />
 
 I am passionate about Machine Learning, Multi-criteria Machine Learning, Deep Learning, Data Science, Artificial Intelligence, Multi-objective optimization and Mathematical Sciences.
 
