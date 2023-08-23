@@ -7,7 +7,7 @@ I'm currently working on Multi-criteria Machine Learning.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/s%C3%A8djro-salomon-hotegni-82a03a202/), [Gmail](mailto:salomon.hotegni@aims.ac.rw)
 - ⚡ My Portfolio: [Bio](https://shsalomon.bio.link/) 
 
-<img src="https://komarev.com/ghpvc/?username=salomonhotegni&style=flat-square&color=blue" alt=""/>(From 2023)
+<img src="https://komarev.com/ghpvc/?username=salomonhotegni&style=flat-square&color=blue" alt=""/>
 
 
 ## 👨🏻💻 About Me
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## My Github Stats: (From 2023)
+## My Github Stats:
 
 [![Sedjro Salomon HOTEGNI's GitHub stats](https://github-readme-stats.vercel.app/api?username=salomonhotegni&count_private=true&hide=contribs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!--
