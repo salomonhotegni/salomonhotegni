@@ -2,7 +2,9 @@
 
 <img width="50%" align="right" alt="Github" src="https://github.com/salomonhotegni/salomonhotegni/blob/43609c18cd9fa8d1d1bb00268eb1d1ada626121e/tools/images/giphy.gif" />
 
+<!--
 I'm currently working on Multi-criteria Machine Learning.
+-->
 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/s%C3%A8djro-salomon-hotegni-82a03a202/), [Gmail](mailto:salomon.hotegni@aims.ac.rw)
 - ⚡ My Portfolio: [Bio](https://shsalomon.bio.link/) 
