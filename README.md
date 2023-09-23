@@ -1,4 +1,4 @@
-## $\text{Hello, I'm Salomon!}$👋
+## Hello, I'm Salomon!👋
 
 <img width="50%" align="right" alt="Github" src="https://github.com/salomonhotegni/salomonhotegni/blob/43609c18cd9fa8d1d1bb00268eb1d1ada626121e/tools/images/giphy.gif" />
 
