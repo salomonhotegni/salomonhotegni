@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/Website-shsalomon.github.io-red?style=flat-square">
 </a>
 <a href="https://shsalomon.bio.link/">
-    <img src="https://img.shields.io/badge/BIO-shsalomon-red?style=flat-square">
+    <img src="https://img.shields.io/badge/Bio-shsalomon-red?style=flat-square">
 </a>  
 <a href="https://www.linkedin.com/in/s%C3%A8djro-salomon-hotegni-82a03a202/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
