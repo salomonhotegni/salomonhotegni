@@ -1,7 +1,7 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2D39F7&center=true&vCenter=true&multiline=true&random=false&width=650&height=95&lines=Sedjro+Salomon+Hotegni;PhD+Student+%7C+Data+Science+for+Engineering;Multicriteria+Machine+Learning+%7C+Computer+Vision" alt="Typing SVG" /></a>
 <br/>
-
+    
 <a href="https://shsalomon.github.io/">
     <img src="https://img.shields.io/badge/Website-shsalomon.github.io-red?style=flat-square">
 </a>
