@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&pause=1000&color=2E1BF7&multiline=true&random=false&width=690&height=90&lines=Sedjro+Salomon+Hotegni;PhD+Student+%7C+Data+Science+for+Engineering;Multicriteria+Machine+Learning+%7C+Computer+Vision" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2D39F7&center=true&vCenter=true&multiline=true&random=false&width=650&height=95&lines=Sedjro+Salomon+Hotegni;PhD+Student+%7C+Data+Science+for+Engineering;Multicriteria+Machine+Learning+%7C+Computer+Vision" alt="Typing SVG" /></a>
 <br/>
 
 <a href="https://shsalomon.github.io/">
