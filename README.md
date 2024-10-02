@@ -33,10 +33,11 @@
 
 ## 👨🏻 About Me
 - 🔭 I’m currently a PhD Student in Data Science for Safe Autonomous Systems at [TU Dortmund](https://cs.tu-dortmund.de/en/), in **Germany** (🇩🇪), and I'm working on Multi-criteria Machine Learning.
+- 🤔 &nbsp; Writing, reading and exploring new technologies.
+<!--
 - 🎓 &nbsp;I have completed a Master's Degree in Mathematical Sciences, with a specialization in Data Science at the [African Institute for Mathematical Sciences](https://aims.ac.rw/), in **Rwanda** (🇷🇼).
 - 🎓 &nbsp;I have obtained a Bachelor's Degree in Applied Mathematics and Computer Science at the [University of Abomebey-Calavi](https://uac.bj/), in **Benin** (🇧🇯).
-- 🤔 &nbsp; Writing, reading and exploring new technologies.
-
+-->
 ### 🖥️ Open-Source Projects
 <table>
 <tr><th>Machine Learning </th></tr>
