@@ -45,6 +45,7 @@
 |Title | Stars | Technologies|
 |--|--|--|
 | [MDMTN](https://github.com/salomonhotegni/MDMTN) | <img alt="Stars" src="https://img.shields.io/github/stars/salomonhotegni/MDMTN?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch)|
+| [MOREL](https://github.com/salomonhotegni/MOREL) | <img alt="Stars" src="https://img.shields.io/github/stars/salomonhotegni/MOREL?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch)|
 
 
 </td><td>
