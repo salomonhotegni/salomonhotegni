@@ -53,11 +53,11 @@
 |Title | Stars | Technologies|
 |--|--|--|
 | [AdverMOREL](https://github.com/salomonhotegni/MOREL) | <img alt="Stars" src="https://img.shields.io/github/stars/salomonhotegni/MOREL?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch)|
+</table>
 
-
-</td><td>
+<p align="center">
 <img alt="Coder GIF" height=250 width=350 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
-</td></tr> </table>
+<br/>
 
 <!--
 ### 🖥️ Open-Source Projects
