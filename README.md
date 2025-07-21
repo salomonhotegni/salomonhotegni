@@ -52,7 +52,7 @@
 
 |Title | Stars | Technologies|
 |--|--|--|
-| [AdverMOREL](https://github.com/salomonhotegni/MOREL) | <img alt="Stars" src="https://img.shields.io/github/stars/salomonhotegni/MOREL?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch)|
+| [AdverMOREL](https://pypi.org/project/advermorel/) | <img alt="Stars" src="https://img.shields.io/github/stars/salomonhotegni/MOREL?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch)|
 </table>
 
 <p align="center">
