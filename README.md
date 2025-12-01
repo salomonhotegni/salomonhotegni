@@ -8,7 +8,7 @@
 <a href="https://shsalomon.bio.link/">
     <img src="https://img.shields.io/badge/Bio-shsalomon-red?style=flat-square">
 </a>  
-<a href="https://www.linkedin.com/in/s%C3%A8djro-salomon-hotegni-82a03a202/">
+<a href="https://www.linkedin.com/in/sedjro-salomon-hotegni">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
 <a href="mailto:sedjro.salomon.hotegni@uni-paderborn.de">
