@@ -40,7 +40,7 @@
 -->
 ### 🖥️ Open-Source Projects
 <table>
-<tr><th>Machine Learning </th><th>PyPi Packages</th></tr>
+<tr><th>Machine Learning</th><th>PyPi Packages</th><th>MLOps</th></tr>
 <tr><td>
 
 |Title | Stars | Technologies|
@@ -55,6 +55,12 @@
 |--|--|--|
 | [moospread](https://pypi.org/project/moospread/) | <img alt="Stars" src="https://img.shields.io/github/stars/safe-autonomous-systems/moo-spread?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch)|
 | [advermorel](https://pypi.org/project/advermorel/) | <img alt="Stars" src="https://img.shields.io/github/stars/salomonhotegni/MOREL?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch)|
+
+</td><td>
+
+|Title | Stars | Technologies|
+|--|--|--|
+| [SemanticCart](https://github.com/salomonhotegni/SemanticCart) | <img alt="Stars" src="https://img.shields.io/github/stars/salomonhotegni/SemanticCart?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![FastAPI](https://img.shields.io/badge/FastAPI-black?style=flat-square&logo=fastapi) ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker)|
 </table>
 
 <p align="center">
