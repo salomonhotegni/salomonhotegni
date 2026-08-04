@@ -125,7 +125,7 @@
 #### 📈 Stats
 <br>
 
-My Github Stats
+My GitHub Stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=salomonhotegni&theme=dracula) 
 
@@ -134,7 +134,7 @@ My Github Stats
 
 
 <br>
-<!--
+<!-- 
 <details>
 Currently Coding & Listening to:
 
