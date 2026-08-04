@@ -38,7 +38,11 @@
 - 🎓 &nbsp;I have completed a Master's Degree in Mathematical Sciences, with a specialization in Data Science at the [African Institute for Mathematical Sciences](https://aims.ac.rw/), in **Rwanda** (🇷🇼).
 - 🎓 &nbsp;I have obtained a Bachelor's Degree in Applied Mathematics and Computer Science at the [University of Abomebey-Calavi](https://uac.bj/), in **Benin** (🇧🇯).
 -->
+
+<div align="center">
+    
 ### 🖥️ Open-Source Projects
+
 <table>
 <tr><th>Machine Learning</th></tr>
 <tr><td>
@@ -68,7 +72,7 @@
 | [moospread](https://pypi.org/project/moospread/) | <img alt="Stars" src="https://img.shields.io/github/stars/safe-autonomous-systems/moo-spread?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch)|
 | [advermorel](https://pypi.org/project/advermorel/) | <img alt="Stars" src="https://img.shields.io/github/stars/salomonhotegni/MOREL?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch)|
 </table>
-
+</div>
 
 
 <!-- <table>
