@@ -60,7 +60,7 @@
     
 |Title | Stars | Technologies|
 |--|--|--|
-| [SemanticCart](https://github.com/salomonhotegni/SemanticCart) | <img alt="Stars" src="https://img.shields.io/github/stars/salomonhotegni/SemanticCart?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![FastAPI](https://img.shields.io/badge/FastAPI-black?style=flat-square&logo=fastapi) <br/> ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker)|
+| [SemanticCart](https://github.com/salomonhotegni/SemanticCart) | <img alt="Stars" src="https://img.shields.io/github/stars/salomonhotegni/SemanticCart?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![FastAPI](https://img.shields.io/badge/FastAPI-black?style=flat-square&logo=fastapi) ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker)|
 </table>
 
 <table>
@@ -74,6 +74,22 @@
 </table>
 </div>
 
+<p align="center">
+<img alt="Coder GIF" height=250 width=350 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
+<br/>
+
+#### 📈 Stats
+<br>
+
+My GitHub Stats
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=salomonhotegni&theme=dracula) 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=salomonhotegni&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=salomonhotegni&theme=dracula)
+
+
+<br>
 
 <!-- <table>
 <tr><th>Machine Learning</th><th>MLOps</th><th>PyPi Packages</th></tr>
@@ -99,9 +115,7 @@
 | [advermorel](https://pypi.org/project/advermorel/) | <img alt="Stars" src="https://img.shields.io/github/stars/salomonhotegni/MOREL?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch)|
 </table> -->
 
-<p align="center">
-<img alt="Coder GIF" height=250 width=350 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
-<br/>
+
 
 <!--
 ### 🖥️ Open-Source Projects
@@ -122,18 +136,7 @@
 </td></tr> </table>
 -->
 
-#### 📈 Stats
-<br>
 
-My GitHub Stats
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=salomonhotegni&theme=dracula) 
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=salomonhotegni&theme=dracula) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=salomonhotegni&theme=dracula)
-
-
-<br>
 <!-- 
 <details>
 Currently Coding & Listening to:
