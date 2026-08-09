@@ -49,6 +49,7 @@
 
 |Title | Stars | Technologies|
 |--|--|--|
+| [SightCite](https://github.com/salomonhotegni/sightcite) | <img alt="Stars" src="https://img.shields.io/github/stars/salomonhotegni/sightcite?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![Hugging Face](https://img.shields.io/badge/Hugging-Face-black?style=flat-square&logo=huggingface) ![LangChain](https://img.shields.io/badge/LangChain-black?style=flat-square&logo=langchain)|
 | [SPREAD](https://github.com/safe-autonomous-systems/moo-spread) | <img alt="Stars" src="https://img.shields.io/github/stars/safe-autonomous-systems/moo-spread?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch)|
 | [MOREL](https://github.com/salomonhotegni/MOREL) | <img alt="Stars" src="https://img.shields.io/github/stars/salomonhotegni/MOREL?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch)|
 | [MDMTN](https://github.com/salomonhotegni/MDMTN) | <img alt="Stars" src="https://img.shields.io/github/stars/salomonhotegni/MDMTN?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch)|
