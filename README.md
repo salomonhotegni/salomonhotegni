@@ -65,6 +65,15 @@
 </table>
 
 <table>
+<tr><th>Agents</th></tr>
+<tr><td>
+    
+|Title | Stars | Technologies|
+|--|--|--|
+| [ghw-awesome-agents](https://github.com/salomonhotegni/ghw-awesome-agents) | <img alt="Stars" src="https://img.shields.io/github/stars/salomonhotegni/ghw-awesome-agents?style=flat-square&labelColor=black"/> | ![Backboard](https://img.shields.io/badge/Backboard-black?style=flat-square&logo=backboard)|
+</table>
+
+<table>
 <tr><th>PyPi Packages</th></tr>
 <tr><td>
     
