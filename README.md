@@ -47,12 +47,24 @@
 <tr><th>Machine Learning</th></tr>
 <tr><td>
 
+<!--
+| [SightCite](https://github.com/salomonhotegni/sightcite) | <img alt="Stars" src="https://img.shields.io/github/stars/salomonhotegni/sightcite?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![Hugging Face](https://img.shields.io/badge/Hugging-Face-black?style=flat-square&logo=huggingface) ![LangChain](https://img.shields.io/badge/LangChain-black?style=flat-square&logo=langchain)|
+-->
 |Title | Stars | Technologies|
 |--|--|--|
-| [SightCite](https://github.com/salomonhotegni/sightcite) | <img alt="Stars" src="https://img.shields.io/github/stars/salomonhotegni/sightcite?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![Hugging Face](https://img.shields.io/badge/Hugging-Face-black?style=flat-square&logo=huggingface) ![LangChain](https://img.shields.io/badge/LangChain-black?style=flat-square&logo=langchain)|
 | [SPREAD](https://github.com/safe-autonomous-systems/moo-spread) | <img alt="Stars" src="https://img.shields.io/github/stars/safe-autonomous-systems/moo-spread?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch)|
 | [MOREL](https://github.com/salomonhotegni/MOREL) | <img alt="Stars" src="https://img.shields.io/github/stars/salomonhotegni/MOREL?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch)|
 | [MDMTN](https://github.com/salomonhotegni/MDMTN) | <img alt="Stars" src="https://img.shields.io/github/stars/salomonhotegni/MDMTN?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch)|
+</table>
+
+<table>
+<tr><th>Agents</th></tr>
+<tr><td>
+    
+|Title | Stars | Technologies|
+|--|--|--|
+| [FrameCite](https://github.com/salomonhotegni/FrameCite) | <img alt="Stars" src="https://img.shields.io/github/stars/salomonhotegni/FrameCite?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![LangGraph](https://img.shields.io/badge/LangGraph-black?style=flat-square&logo=langgraph) ![Pydantic](https://img.shields.io/badge/Pydantic-black?style=flat-square&logo=pydantic) </br> ![FastAPI](https://img.shields.io/badge/FastAPI-black?style=flat-square&logo=fastapi) ![Gradio](https://img.shields.io/badge/Gradio-black?style=flat-square&logo=gradio) ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker)|
+| [ghw-awesome-agents](https://github.com/salomonhotegni/ghw-awesome-agents) | <img alt="Stars" src="https://img.shields.io/github/stars/salomonhotegni/ghw-awesome-agents?style=flat-square&labelColor=black"/> | ![Backboard](https://img.shields.io/badge/Backboard-black?style=flat-square&logo=backboard)|
 </table>
 
 <table>
@@ -62,15 +74,6 @@
 |Title | Stars | Technologies|
 |--|--|--|
 | [SemanticCart](https://github.com/salomonhotegni/SemanticCart) | <img alt="Stars" src="https://img.shields.io/github/stars/salomonhotegni/SemanticCart?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![FastAPI](https://img.shields.io/badge/FastAPI-black?style=flat-square&logo=fastapi) ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker)|
-</table>
-
-<table>
-<tr><th>Agents</th></tr>
-<tr><td>
-    
-|Title | Stars | Technologies|
-|--|--|--|
-| [ghw-awesome-agents](https://github.com/salomonhotegni/ghw-awesome-agents) | <img alt="Stars" src="https://img.shields.io/github/stars/salomonhotegni/ghw-awesome-agents?style=flat-square&labelColor=black"/> | ![Backboard](https://img.shields.io/badge/Backboard-black?style=flat-square&logo=backboard)|
 </table>
 
 <table>
